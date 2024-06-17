@@ -7,3 +7,4 @@ I'm Rujul, a junior at Thapar University. I excel in various tech domains, from 
 <li> ✉️ You can contact me at <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rujulgoel.13309@gmail.com&su=SUBJECT&body=BODY">Here</a> </li>
 <li> 🎧 I am learning JAVA right now </li>
 <li> 🤝 Open to collab on any development project </li>
+
