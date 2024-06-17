@@ -1,5 +1,5 @@
-## Hi there 👋 
-## MY name is Rujul 
+## Hi 👋 MY name is Rujul
+## Tech lexicographer
 
 I'm Rujul, a junior at Thapar University. I excel in various tech domains, from C++ and Css to Java and Python. As an active member of the OWASP society, I am dedicated to integrating security into my coding journey.
 
