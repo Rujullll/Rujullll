@@ -18,9 +18,11 @@ I'm Rujul, a junior at Thapar University. I excel in various tech domains, from 
 </p>
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Rujullll"><img src="https://github-readme-stats.vercel.app/api?username=its-me-ojas&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="its-me-ojas's GitHub stats" /></a>
+<a href="https://github.com/Rujullll"><img src="https://github-readme-stats.vercel.app/api?username=Rujullll&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rujullll's GitHub stats" /></a>
 
-<a href="https://github.com/Rujullll"><img src="https://github-readme-streak-stats.herokuapp.com/?user=its-me-ojas&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://github.com/Rujullll"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rujullll&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rujullll&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
